@@ -1,5 +1,7 @@
 # Starbound Directive Generator
-Compares a recolored image with the original image, and generates a replace directive for it.
+A tool that compares two images, and generates replace directives for them. For more information on directives, you can visit the [Starbounder Wiki Page](http://starbounder.org/Modding:Image_Processing_Directives).
+
+Built for [.NET Framework 4.5](https://www.microsoft.com/nl-nl/download/details.aspx?id=30653).
 
 ## Installation
 * Download the latest release from the [Releases](https://github.com/Silverfeelin/Starbound-DirectiveGenerator/releases) page.
