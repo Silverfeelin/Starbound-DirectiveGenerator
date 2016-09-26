@@ -23,5 +23,5 @@ Compares a recolored image with the original image, and generates a replace dire
 ![Drag 'n Drop](https://raw.githubusercontent.com/Silverfeelin/Starbound-DirectiveGenerator/master/readme/usage.png)  
 *Opening the application using two images.*
 
-![Console](https://raw.githubusercontent.com/Silverfeelin/Starbound-DirectiveGenerator/master/readme/console.png)
+![Console](https://raw.githubusercontent.com/Silverfeelin/Starbound-DirectiveGenerator/master/readme/console.png)  
 *Confirming the image order in the application.*
